@@ -1,13 +1,12 @@
 # end_to_end_medical_chatbot-using-llama2
 
 ## Steps to run the project
-
-'''bash
+```bash
 conda create -n mchatbot python=3.8 -y
-'''
+```
 
-'''bash
+```bash
 conda activate mchatbot
 pip install -r requirements.txt
-'''
+```
 
